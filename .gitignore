@@ -1,0 +1,9 @@
+## Python
+*.pyc
+
+## venv
+venv/
+
+## secrets
+myKeys.json
+myClientIds.json
